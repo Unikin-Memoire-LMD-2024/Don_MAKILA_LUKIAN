@@ -1,0 +1,20 @@
+A propos du Dataset
+
+This dataset have 5000 row and 14 columns and personal Loan is target. other features are:
+• id : Customer ID => Identifiant du client.
+• age : Customer's age in completed years => L'age du client en années révolues.
+• experience : years of professional experience => Les années d'expérience professionnelle du demandeur
+• income : income of the customer per month => Revenu mensuel du client.
+• zip_code : Home Address ZIP code. => code postal du domicile du client.
+• family : Family size of the customer => La taille de la famille du client.
+• ccavg : Avg. spending on credit cards per month => La moyenne des dépenses mensuelles du demandeur avec la carte de crédit.
+• education : Education Level. => Le niveau d'études du client.
+Undergrade : 1
+Graduate : 2
+Advanced/Professional : 3
+• mortgage : Value of house mortgage if any. => La valeur de l'hypothèque de la maison, le cas échéant.
+• personal_loan : Does this customer accept the personal loan offered in the last campaign? => Ce client a-t-il obtenu de crédit personnel proposé lors de la dernière campagne ? << Valeurs : Y=1 , N=0 >>(La colonne target)
+• securities_account : Does the customer have a securities account with the bank? => Ce client avait-il un compte titres auprès de la banque ? << Valeurs : Y=1 , N=0 >>
+• cd_account : Does the customer have a certificate of deposit (CD) account with the bank? => Ce client dispose-t-il d'une attestation de dépot auprès de la banque ? << Valeurs : Y=1 , N=0 >>
+• online : Does the customer use internet banking facilities? => Le client utilise-t-il les services bancaires par Internet ? << Valeurs : Y=1 , N=0 >>
+• creditcard : Ce client a-t-il une carte de crédit ? << Valeurs : Y=1 , N=0 >>
